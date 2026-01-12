@@ -1,2 +1,4 @@
-# Ability-md-bot
-WhatsApp Multi-Device bot iliyotengenezwa kwa Baileys MD, ikiwa na commands za group na matumizi ya kila siku.
+BOT_NAME=NYACHUMA-MD
+OWNER_NAME=Nyachuma
+OWNER_NUMBER=255678088895
+PREFIX=!
